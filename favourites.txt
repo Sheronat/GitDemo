@@ -5,3 +5,4 @@ Favourite animals:
     * fox
     * birds
     * horse
+    * fish
