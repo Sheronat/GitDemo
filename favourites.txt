@@ -9,3 +9,5 @@ Favourite animals:
     * fish
     * chimkens
     * duh
+    *bock
+    * gg
