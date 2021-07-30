@@ -10,3 +10,4 @@ Favourite animals:
     * fish
     * chimkens
     * bruh
+    * duh
