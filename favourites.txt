@@ -2,3 +2,4 @@ Favourite animals:
 
     * cat
     * dog
+    * horse
