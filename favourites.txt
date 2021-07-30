@@ -2,20 +2,9 @@ Favourite animals:
 
     * cat
     * dog
-    * eh
     * fox
     * birds
     * horse
     * hamster
     * fish
-    * chimkens
-    * bruh
-    * duh
-    *bock
-    * gg
-    * pepe
-    * oof
-    * kek
-    * lol
-    * eh
-    * kek
+    * chickens
