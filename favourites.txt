@@ -1,0 +1,4 @@
+Favourite animals: 
+
+    * cat
+    * dog
