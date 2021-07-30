@@ -10,3 +10,4 @@ Favourite animals:
     * chickens
     * raccons
     * lion
+    * otters
