@@ -3,4 +3,5 @@ Favourite animals:
     * cat
     * dog
     * fox
+    * birds
     * horse
