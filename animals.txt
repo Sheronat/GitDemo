@@ -5,4 +5,8 @@ Pets :
     * bird
     * fish
     * chicken
+    * fox
+    * duck
+    * hamster
+    * horse
 
