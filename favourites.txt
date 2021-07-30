@@ -8,3 +8,4 @@ Favourite animals:
     * hamster
     * fish
     * chickens
+    * raccons
