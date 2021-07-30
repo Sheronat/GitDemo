@@ -5,4 +5,6 @@ Favourite animals:
     * fox
     * birds
     * horse
+    * hamster
     * fish
+    * chimkens
